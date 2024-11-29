@@ -2,7 +2,7 @@
 
 A powerful large language model with two variants:
 - Lunar-v2-Large (1.2B parameters)
-- Lunar-v2-Medium (320M parameters, quantized)
+- Lunar-v2-large (320M parameters, quantized)
 
 ## Model Architecture
 - Based on the transformer architecture with improvements
@@ -17,7 +17,7 @@ A powerful large language model with two variants:
    - 2048 hidden dimension
    - 32 attention heads
 
-2. Lunar-v2-Medium (320M parameters):
+2. Lunar-v2-large (320M parameters):
    - 4-bit quantized
    - 24 transformer layers
    - 1024 hidden dimension
