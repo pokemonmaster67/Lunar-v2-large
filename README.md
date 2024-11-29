@@ -1,4 +1,4 @@
-# Lunar-v2-Large Language Model
+# Lunar-v2-Large
 
 A powerful large language model with two variants:
 - Lunar-v2-Large (1.2B parameters)
